@@ -1,6 +1,7 @@
 import { Container } from 'react-bootstrap'
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import Formulario from './components/formulario'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
     <Container className='mainPage'>
       <hr className='text-light'/>
       {/*aqui se agrega el formulario*/}
+      <Formulario/>
     </Container>
 <footer className='bg-black text-secondary text-center py-2'>
   <p>&copy; Todos los derechos reservados</p>
