@@ -1,4 +1,4 @@
-# Trabajo práctico 1: React. Ejercicio 1
+# Trabajo práctico 1: React. Ejercicio 4
 ![React](https://www.patterns.dev/img/reactjs/react-logo@3x.svg)
 
 El fin de este trabajo es comenzar a practicar con react. 
