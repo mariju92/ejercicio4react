@@ -8,8 +8,9 @@ function App() {
 
   return (
     <>
-    <h1 className='display-4 py-3 text-center bg-black text-light'>Lista de tareas</h1>
+    
     <Container className='mainPage'>
+      <h1 className='display-4 py-3 text-center bg-black text-light'>Lista de tareas</h1>
       <hr className='text-light'/>
       {/*aqui se agrega el formulario*/}
       <Formulario/>
