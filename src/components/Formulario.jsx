@@ -24,7 +24,7 @@ function Formulario() {
           />
         </Form.Group>
       </Form>
-      <ListaTareas />
+      <ListaTareas ListaTareas={tareas}/>
     </section>
   );
 }
